@@ -1,2 +1,20 @@
 # adwon
-index Algorithm
+
+![ ](./image/슬라이드1.PNG)
+![ ](./image/슬라이드2.PNG)
+![ ](./image/슬라이드3.PNG)
+![ ](./image/슬라이드4.PNG)
+![ ](./image/슬라이드5.PNG)
+![ ](./image/슬라이드6.PNG)
+![ ](./image/슬라이드7.PNG)
+![ ](./image/슬라이드8.PNG)
+![ ](./image/슬라이드9.PNG)
+![ ](./image/슬라이드10.PNG)
+![ ](./image/슬라이드11.PNG)
+![ ](./image/슬라이드12.PNG)
+![ ](./image/슬라이드13.PNG)
+![ ](./image/슬라이드14.PNG)
+![ ](./image/슬라이드15.PNG)
+![ ](./image/슬라이드16.PNG)
+![ ](./image/슬라이드17.PNG)
+![ ](./image/슬라이드18.PNG)
